@@ -2,7 +2,7 @@
 
 Project Goal: XXXX
 
-Name:
+Name: Ziwei He, Zheng Lian, Lucas Lu
 
 Method:
 
